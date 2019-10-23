@@ -3,7 +3,7 @@
 /gradle
 /.idea
 gradlew.bat
-gradlew
+#gradlew
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
